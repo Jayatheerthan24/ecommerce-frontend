@@ -1,4 +1,4 @@
-import Header from "./header";
+
 
 const About=()=>{
     return (
